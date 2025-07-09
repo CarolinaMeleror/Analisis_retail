@@ -1,7 +1,6 @@
 Título del Proyecto: Análisis y Predicción de Ventas en una Tienda de Retail
 
   Descripción:
-
   Este proyecto analiza un dataset de 302,010 transacciones de retail para identificar patrones de comportamiento de compra y desarrollar modelos predictivos
    de machine learning. El análisis incluye exploración de datos, imputación de valores nulos, identificación de outliers, análisis de correlaciones y
   benchmarking de 6 algoritmos de ML (Logistic Regression, KNN, Decision Tree, Random Forest, XGBoost y LightGBM). La importancia radica en proporcionar
